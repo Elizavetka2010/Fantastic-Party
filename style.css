@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+header {
+    background-color: lightblue;
+    margin: 10px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: lightblue;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+main {
+    background-color: lightblue;
+}
+
+h1 {
+    color: Orange;
+    background-color: white;
+    text-align: center;   
+    border: 2px solid DarkViolet;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+footer p {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.navigashion {
+    text-decoration: none;
+    background-color: lightskyblue;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    color: DeepSkyBlue;
+}
+
+a {
+    text-decoration: none;
+    background-color: deepskyblue;
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    color: white;   
+}
+
+.feerverky {
+    border-radius: 10px;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+.discount {
+    border: 2px solid silver;
+}
+
+h2 {
+    font-size: 40px;
+    color: DeepSkyBlue;
+    text-align: center;
+}
